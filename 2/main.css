@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(188, 193, 243);
+}
+.container{
+    width: 100vw;
+    height: 95vh;
+    background-color: rgb(163, 226, 184);
+}
